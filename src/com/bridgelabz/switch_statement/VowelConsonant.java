@@ -3,6 +3,7 @@ package com.bridgelabz.switch_statement;
 import java.util.Scanner;
 
 public class VowelConsonant {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter any Alphabet: ");
